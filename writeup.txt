@@ -1,0 +1,18 @@
+------------------------------------
+--Weekly Report App Write-Up Topics
+------------------------------------
+
+
+-Brief background on project and reason for building the app
+	-Weekly process takes 20 min for users across different groups
+-Overview of Python modules used and why
+	-Connection to DB2 Database
+	-Email option
+	-Excel file creation
+	-Date/Time stamping
+-Layout of code and 
+	-Load modules
+	-Connect to database
+	-Create and build Excel file
+	-Create email
+	-Attach Excel to Email and Send
