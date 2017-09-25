@@ -16,3 +16,8 @@
 	-Create and build Excel file
 	-Create email
 	-Attach Excel to Email and Send
+
+
+RTI: Questions
+- are you planning to include a diagram to outline the architecture and deployment topology?
+
