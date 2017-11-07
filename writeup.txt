@@ -20,4 +20,5 @@
 
 RTI: Questions
 - are you planning to include a diagram to outline the architecture and deployment topology?
+- should we use Git Issues as a way to capture tasks?
 
